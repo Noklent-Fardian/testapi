@@ -1,0 +1,7 @@
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.csproj.AssemblyReference.cache
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.AssemblyInfoInputs.cache
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.AssemblyInfo.cs
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.csproj.CoreCompileInputs.cache
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Visual Basic\asp.net\testapi\testapi\obj\Debug\netcoreapp3.1\testapi.MvcApplicationPartsAssemblyInfo.cache
